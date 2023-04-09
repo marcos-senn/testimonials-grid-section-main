@@ -1,0 +1,32 @@
+:root{
+    /* Primary colors*/
+    --Moderate-violet: hsl(263, 55%, 52%);
+    --Very-dark-grayish-blue: hsl(217, 19%, 35%);
+    --Very-dark-blackish-blue: hsl(219, 29%, 14%);
+    --White: hsl(0, 0%, 100%);
+
+    /* Neutral colors*/
+
+    --Light-gray: hsl(0, 0%, 81%);
+    --Light-grayish-blue: hsl(210, 46%, 95%);
+}
+
+
+.danielh5{
+    color: var(--White);
+}
+
+.danielp {
+    color: var(--Light-gray);
+    opacity: .9;
+}
+
+.danielh1{
+    color: var(--White);
+}
+
+.danielp2{
+    color: var(--Light-gray);
+    opacity: .9;
+    margin-bottom: 10px;
+}
